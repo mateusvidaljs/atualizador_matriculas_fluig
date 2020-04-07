@@ -1,0 +1,9 @@
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\bin\Debug\AtualizadorMatriculas.exe.config
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\bin\Debug\AtualizadorMatriculas.exe
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\bin\Debug\AtualizadorMatriculas.pdb
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\obj\Debug\AtualizadorMatriculas.csprojResolveAssemblyReference.cache
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\obj\Debug\AtualizadorMatriculas.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\obj\Debug\AtualizadorMatriculas.exe
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\obj\Debug\AtualizadorMatriculas.pdb
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\bin\Debug\DAL.dll
+C:\Projetos\DotNet\AtualizadorMatriculas\AtualizadorMatriculas\bin\Debug\DAL.pdb
